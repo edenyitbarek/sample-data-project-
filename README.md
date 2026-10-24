@@ -6,10 +6,6 @@ This project was created for a Git and GitHub assignment to demonstrate version 
 
 
 
-by Eden Yitbarek
-
-
-
 \## Learning Objectives
 
 \- Practice Git version control.
@@ -17,4 +13,10 @@ by Eden Yitbarek
 \- Learn to create commits.
 
 \- Learn to publish a project on GitHub.
+
+
+
+by Eden Yitbarek
+
+
 
